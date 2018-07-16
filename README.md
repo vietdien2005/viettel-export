@@ -1,2 +1,1 @@
-# viettel-export
 Nothing here 
